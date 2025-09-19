@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+numpy
+seaborn
+plotly.express
+scipy.stats
+base64
+warnings
